@@ -1,0 +1,20 @@
+baseURL = "http://domain.com" # Your domain
+  title = "Podcast title" # Your podcast title
+  copyright = "Domain.com" # Your copyright information
+  theme = "hugocast" # Do nothing
+  disableKinds = ["sitemap"] # Do nothing
+
+[params]
+  defaultContentLanguage = "en-US" # Your podcast default language
+  startyear = "2020" # Start year
+  author = "Bin Hua" # Your name
+  email = "forhua@gmail.com" # Your email address
+  description = "This is my podcast" # Your podcast description
+  explicit = true # True or false
+  podcastlogo = "podcastlogo.png" # Your podcast logo
+  itunecategory = ["Comedy","Technology","Arts"] # Your podcast category, check the category, https://podcasts.apple.com/us/genre/podcasts/id26
+
+[taxonomies]
+  tag = "" # Do nothing
+  group = "" # Do nothing
+  category = "" # Do nothing
