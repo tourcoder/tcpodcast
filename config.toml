@@ -3,6 +3,7 @@ title = "代码旅行" # Your podcast title
 copyright = "tourcoder.com" # Your copyright information
 theme = "hugocast" # Do nothing
 disableKinds = ["sitemap"] # Do nothing
+publishDir = "docs"
 
 [params]
   defaultContentLanguage = "en-US" # Your podcast default language
